@@ -1,6 +1,6 @@
 # h7_dual_core
 
-stm32h747 dual core SOC ipm example.
+zephyr stm32h747 ipm driver sample.
 
 # Build
 
